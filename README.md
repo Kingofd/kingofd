@@ -5,6 +5,10 @@ I have experience in Godot Engine, Server Administration and Game Design.
 * 📝 Master of To-Do lists
 * 🇺🇳 Language learning enthusiast
 
+Feel free to take a look at my C++ code samples:
+* Sample of one of my OSS contributions to "Battle for Wesnoth": [code-samples/generate_traits.cpp](https://github.com/Kingofd/kingofd/blob/main/code-samples/generate_traits.cpp)
+* Sample of code written during my Master's Thesis: [code-samples/room_model.h](https://github.com/Kingofd/kingofd/blob/main/code-samples/room_model.h)
+
 ### 💻 Programming/markup languages
 
 My strongest programming language is C++, with some training in C.
